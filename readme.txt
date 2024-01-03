@@ -1,1 +1,1 @@
-This is the code ..
+This is some text that will appear and disappear.
